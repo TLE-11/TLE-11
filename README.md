@@ -63,6 +63,6 @@ actually available for model weights running somewhere you don't fully trust.
 
 Notes and source walkthroughs on inference infrastructure.
 
-- REDBOOK · **{{TLE-11}}**
+- REDBOOK · TLE-11
 
 

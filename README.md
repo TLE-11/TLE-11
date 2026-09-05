@@ -4,8 +4,10 @@
 
 <p><b>AI Infrastructure · Inference Serving · GPU Scheduling</b></p>
 
+<p>Communications engineering by training, large-model inference infrastructure by trade.</p>
+
 <p>
-<code>MSc @ Beijing University of Posts and Telecommunications</code>
+<code>MSc @ BUPT · Class of 2028</code>
 <code>Beijing, China</code>
 </p>
 
@@ -13,22 +15,23 @@
 
 ---
 
-### About
+### 💼 Experience
 
-I work on infrastructure for large-model inference, coming from a communications engineering background.
+- **Kuaishou** · AI Infrastructure Intern · Mar 2026 – Present
+  <br><sub>Inference scheduling · GPU resource efficiency · confidential inference</sub>
+- **DiDi** · Backend Intern · Sep 2025 – Feb 2026
+  <br><sub>Benefits platform refactor · multi-agent test case generation</sub>
 
-The questions I spend most of my time on: how to get more useful work out of the same pool of GPUs,
-how inference traffic should be distributed across regions and clusters, and what protection is
-actually available for model weights running somewhere you don't fully trust.
+> Both involved internal systems, so I don't go into detail here.
 
-### Interests
+### 🎯 Focus
 
 - **Inference serving & resource efficiency** — autoscaling, capacity normalization across heterogeneous accelerators, time-shifted scheduling with offline reclamation
 - **Scheduling & load balancing** — traffic distribution in distributed systems, graceful degradation, state consistency
 - **Confidential computing** — remote attestation and key management under TEEs, GPU confidential computing
 - **Cloud native** — Kubernetes, capacity management and autoscaling on hybrid cloud
 
-### Stack
+### 🧰 Stack
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -52,14 +55,7 @@ actually available for model weights running somewhere you don't fully trust.
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
 </p>
 
-### Experience
-
-- **Kuaishou** · AI Infrastructure Intern · Mar 2026 – Present
-- **DiDi** · Backend Intern · Sep 2025 – Feb 2026
-
-> Both roles involved internal systems, so I don't go into detail here.
-
-### Writing
+### 📝 Writing
 
 Notes and source walkthroughs on inference infrastructure.
 

@@ -59,6 +59,6 @@
 
 Notes and source walkthroughs on inference infrastructure.
 
-- REDBOOK · TLE-11
+- REDNOTE · TLE-11
 
 

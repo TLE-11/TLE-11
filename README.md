@@ -11,18 +11,24 @@
 <code>Beijing, China</code>
 </p>
 
+<p>
+<a href="https://www.xiaohongshu.com/user/profile/5e396d9c000000000100071b"><img src="https://img.shields.io/badge/REDnote-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
+</p>
+
 </div>
 
 ---
 
 ### 💼 Experience
 
-- **Kuaishou** · AI Infrastructure Intern · Mar 2026 – Present
+- **Xiaohongshu (RED)** · AI Infrastructure Intern · Sep 2026 – Present
+  <br><sub>Capacity management · time-shifted scheduling · elastic scaling</sub>
+- **Kuaishou** · AI Infrastructure Intern · Mar 2026 – Sep 2026
   <br><sub>Inference scheduling · GPU resource efficiency · confidential inference</sub>
 - **DiDi** · Backend Intern · Sep 2025 – Feb 2026
   <br><sub>Benefits platform refactor · multi-agent test case generation</sub>
 
-> Both involved internal systems, so I don't go into detail here.
+> All involved internal systems, so I don't go into detail here.
 
 ### 🎯 Focus
 
@@ -43,7 +49,13 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Intel_TDX-0071C5?style=flat-square&logo=intel&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 
 <p>
@@ -59,6 +71,6 @@
 
 Notes and source walkthroughs on inference infrastructure.
 
-- REDNOTE · TLE-11
+- [REDNOTE · TLE-11](https://www.xiaohongshu.com/user/profile/5e396d9c000000000100071b)
 
 

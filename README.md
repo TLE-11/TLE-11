@@ -56,12 +56,15 @@
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-5B3CC4?style=flat-square" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img alt="Apache Flink" src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
+<img alt="StarRocks" src="https://img.shields.io/badge/StarRocks-2855D9?style=flat-square" />
 <img src="https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apacherocketmq&logoColor=white" />
 <img src="https://img.shields.io/badge/gRPC-244B5A?style=flat-square&logo=grpc&logoColor=white" />
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />

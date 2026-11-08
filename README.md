@@ -28,8 +28,6 @@
 - **DiDi** · Backend Intern · Sep 2025 – Feb 2026
   <br><sub>Benefits platform refactor · multi-agent test case generation</sub>
 
-> All involved internal systems, so I don't go into detail here.
-
 ### 🎯 Focus
 
 - **Inference serving & resource efficiency** — autoscaling, capacity normalization across heterogeneous accelerators, time-shifted scheduling with offline reclamation
